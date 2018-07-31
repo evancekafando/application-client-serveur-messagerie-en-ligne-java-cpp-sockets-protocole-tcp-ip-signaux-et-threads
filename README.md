@@ -1,4 +1,4 @@
-﻿**Applications client-serveur : Messagerie en Ligne - Java/C++**
+#Applications client-serveur : Messagerie en Ligne - Java/C++
 
 **I. Description :**
 Il s'agit d'implémenter une application client-serveur où des groupes de clients
